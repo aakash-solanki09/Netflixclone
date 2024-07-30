@@ -1,3 +1,3 @@
 # Netflixclone
-My first static page
+My first static page <br>
 Author - Aakash Solanki
